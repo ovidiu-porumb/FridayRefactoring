@@ -1,0 +1,6 @@
+FILE QUARANTINED
+
+Microsoft Forefront Protection for Exchange Server running on iQuest mail servers removed a file since it was found to match a filter.
+File name: "winmail.dat->Tic Tac Toe.zip->Tic Tac Toe.vshost.exe"
+Filter name: "FILE FILTER= Block executables: *"
+Server name: CJ-CO-EXCH-V002
